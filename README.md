@@ -1,6 +1,6 @@
 # ![Logo](Images/MyLogo_cropped.png)
 
-## Hi there 👋
+## Hello there 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/YevheniiKovryzhenko/](https://www.linkedin.com/in/yevhenii-kovryzhenko-35937a165/))
 
