@@ -8,12 +8,15 @@ I’m Yevhenii (Jack), an Aerospace Engineering Ph.D. candidate at Auburn Univer
 
 
 ## 📌 Pinned Repositories
+
+### Ground Control and Monitoring Software:
 <br>
 <a href="https://github.com/YevheniiKovryzhenko/KGroundControl.git">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=YevheniiKovryzhenko&repo=KGroundControl&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<br>
+<be>
 
+### PX4-Based Autopilot projects:
 <br>
 <a href="https://github.com/YevheniiKovryzhenko/PX4_SIMULINK_IO_Framework.git">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=YevheniiKovryzhenko&repo=PX4_SIMULINK_IO_Framework&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -27,5 +30,15 @@ I’m Yevhenii (Jack), an Aerospace Engineering Ph.D. candidate at Auburn Univer
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=YevheniiKovryzhenko&repo=Quadrotor_with_FF_Control&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <be>
+<be>
+
+### Standalone Autopilot projects:
 <br>
+<a href="https://github.com/YevheniiKovryzhenko/ACEPilot.git">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=YevheniiKovryzhenko&repo=ACEPilot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<br>
+
+
+
 
