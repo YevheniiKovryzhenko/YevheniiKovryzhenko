@@ -3,6 +3,7 @@
 ## Hello there 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/YevheniiKovryzhenko/](https://www.linkedin.com/in/yevhenii-kovryzhenko-35937a165/))
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://yevheniikovryzhenko.github.io/Portfolio/)
 
 I’m Yevhenii (Jack), an Aerospace Engineering Ph.D. candidate at Auburn University. I focus on guidance and control for aerospace vehicles like quadrotors, tilt-wing aircraft, and rockets! I am also a self-taught self-proclaimed embedded systems programmer specializing in control algorithm development, hardware integration, and testing. I develop simulations in MATLAB/Simulink, integration packages for embedded hardware, and standalone software in C/C++.
 
